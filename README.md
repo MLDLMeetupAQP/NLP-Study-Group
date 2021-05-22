@@ -29,7 +29,7 @@ Evento | Tema  | Diapositivas | Grabación | Material Adicional |
 Reunión | Charla Informativa |  [![](./imgs/icon_pdf.png)](https://drive.google.com/file/d/1TgVc1qSrvtROkd3qX1kgu9P9eJTdHVOZ/view?usp=sharing) | [![](./imgs/icon_youtube.png)](https://youtu.be/i9EaB2IPz88) |
 Semana 1 | Sentiment Analysis with Logistic Regression | | [![](./imgs/icon_youtube.png)](https://youtu.be/AIgGkpZnHMQ) |
 Semana 2 | Sentiment Analysis with Naïve Bayes | | [![](./imgs/icon_youtube.png)](https://youtu.be/JPt8fRDdvdU) |
-Semana 3	| Vector Space Models | | |
+Semana 3	| Vector Space Models | | [![](./imgs/icon_youtube.png)](https://youtu.be/VGk8ogMmKnI) |
 Semana 4	| Machine Translation and Document Search | | |
 
 ____
