@@ -1,6 +1,6 @@
 # Grupo de Estudio: Natural Language Processing Specialization
 
-Grupo de Estudio enfocado la especialización [Natural Language Processing Specialization(https://www.coursera.org/specializations/natural-language-processing) ofrecido por coursera.
+Grupo de Estudio enfocado la especialización [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) ofrecido por coursera.
 
 
 ## Sobre el curso
@@ -30,7 +30,7 @@ Reunión | Charla Informativa |  [![](./imgs/icon_pdf.png)](https://drive.google
 Semana 1 | Sentiment Analysis with Logistic Regression | | [![](./imgs/icon_youtube.png)](https://youtu.be/AIgGkpZnHMQ) |
 Semana 2 | Sentiment Analysis with Naïve Bayes | | [![](./imgs/icon_youtube.png)](https://youtu.be/JPt8fRDdvdU) |
 Semana 3	| Vector Space Models | | [![](./imgs/icon_youtube.png)](https://youtu.be/VGk8ogMmKnI) |
-Semana 4	| Machine Translation and Document Search | | |
+Semana 4	| Machine Translation and Document Search | | [![](./imgs/icon_youtube.png)](https://youtu.be/WQIjTBEHlfM) |
 
 ____
 Únete a nuestra comunidad:
