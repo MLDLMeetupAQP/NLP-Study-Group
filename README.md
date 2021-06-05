@@ -32,6 +32,15 @@ Semana 2 | Sentiment Analysis with Naïve Bayes | | [![](./imgs/icon_youtube.png
 Semana 3	| Vector Space Models | | [![](./imgs/icon_youtube.png)](https://youtu.be/VGk8ogMmKnI) |
 Semana 4	| Machine Translation and Document Search | | [![](./imgs/icon_youtube.png)](https://youtu.be/WQIjTBEHlfM) |
 
+### Curso 2: Natural Language Processing with Probabilistic Models
+
+Evento | Tema  | Diapositivas | Grabación | Material Adicional |
+-----| :-: | :-: | :-: | :-: |
+Semana 1 | Autocorrect | | [![](./imgs/icon_youtube.png)](https://www.youtube.com/watch?v=xCOnvfj_hTk) |
+Semana 2 | Part of Speech Tagging and Hidden Markov Models | |  |
+Semana 3 | Autocomplete and Language Models | |  |
+Semana 4 | Word embeddings with neural networks | |  |
+
 ____
 Únete a nuestra comunidad:
 - Facebook: https://www.facebook.com/MLDLMeetupAQP/
